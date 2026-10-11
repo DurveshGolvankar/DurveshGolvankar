@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Durvesh Golvankar 👋
 
-<!--
-**DurveshGolvankar/DurveshGolvankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Intelligence Specialist** — data modeling, Power BI, and cloud analytics.
 
-Here are some ideas to get you started:
+- 📊 Turning data into clear, reliable reporting
+- 📚 Always learning: currently exploring Microsoft Fabric and Azure AI
+- 🎓 MS Systems Engineering & Management (Business Analytics), UT Dallas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Skills
+
+- **Data:** Python · SQL · Snowflake · Databricks · Azure Data Factory · Microsoft Fabric
+- **BI:** Power BI (DAX, Power Query, data modeling)
+- **Cloud & AI:** Azure · Azure OpenAI
+- **Tools:** Git · Azure DevOps
+
+---
+
+### 🧪 Learning projects
+
+Personal practice projects built on public datasets.
